@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 MELIKE TESTI
+=======
+<<<<<<< HEAD
+TEST 2 test
+=======
+TEST
+<<<<<<< HEAD
+OZLEM
+>>>>>>> 22219e3e5ed4bb9443f6be9fbab15c48ddc72fcd
+
+***
+=======
+deneme 123
+>>>>>>> ad9f4332342ea5fc5656b0f4d01ed20bb30daa3c
+>>>>>>> b383926ec21acea2e5507a499674c0f0ac9233f1
