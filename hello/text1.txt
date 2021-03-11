@@ -1,1 +1,5 @@
-Hello World1
+<<<<<<< HEAD
+Hello.. deneme sevda 
+=======
+TEST
+>>>>>>> a728f1992e61a505e7271f57940488f40b74130c
